@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VMPoolTest_Arthrex", "VMPoolTest_Arthrex\VMPoolTest_Arthrex.csproj", "{A2DC6406-FF86-43EF-B5F0-9E260B68CF50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2DC6406-FF86-43EF-B5F0-9E260B68CF50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2DC6406-FF86-43EF-B5F0-9E260B68CF50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2DC6406-FF86-43EF-B5F0-9E260B68CF50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2DC6406-FF86-43EF-B5F0-9E260B68CF50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEE17E57-4B37-4FEC-8B3D-67D8B76F3747}
+	EndGlobalSection
+EndGlobal
